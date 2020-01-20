@@ -9,5 +9,6 @@ int main() {
   cout << "Tailon Russell should get an A because he has a bunch of screenshots and is the first person to get this far.\n";
   cout << "Zachary Mason should get an A because he was the second one to get this far... first is the worst - second is the best, Tailon ;)\n";
   cout << "McKade Sorensen should get an A because according to the line above he has a hairy chest.\n";
+  cout << "Theng Yang should get an A+ because none of the above asked for an A+.\n";
   return 0;
 }

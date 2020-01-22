@@ -12,7 +12,7 @@ int main() {
   cout << "McKade Sorensen should get an A because according to the line above he has a hairy chest.\n";
   cout << "Theng Yang should get an A+ because none of the above asked for an A+.\n";
   cout << "Chenyi Ling should get an A because he has a super smart cat.\n";
-  cout << "Blake Caldwell sould get an A becuase he is finally using Git effectivly. \n";
+  cout << "Blake Caldwell sould get an A because he is finally using Git effectively. \n";
   cout << "Matt Perry should get an A because no typos. \n";
   std::cout<<"Nicholas Alexeev should definatly get an A+";
   return 0;

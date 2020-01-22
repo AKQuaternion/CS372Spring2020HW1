@@ -7,6 +7,7 @@ int main() {
   cout << "The following grades should be recorded:\n";
   cout << "Professor Hartman gets an A because he enters the grades (and wrote this.)\n";
 
+  cout << "James Rine should get an A because he doesn't commit directly master"
   cout << "Tailon Russell should get an A because he has a bunch of screenshots and is the first person to get this far.\n";
   cout << "Zachary Mason should get an A because he was the second one to get this far... first is the worst - second is the best, Tailon ;)\n";
   cout << "McKade Sorensen should get an A because according to the line above he has a hairy chest.\n";

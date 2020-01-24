@@ -20,5 +20,6 @@ int main() {
   cout << "Keegan Palmieri would definitely not say no to an A because he is getting everything figured out.\n";
   cout << "Malvika Shriwas should get an A because she can't afford a bad grade T_T \n";
   cout << "Chaweinta Hale should definitely get an A plus because highland cows are cute\n";
+  cout << "Svein Ormseth should get an A because he's a cool guy\n";
   return 0;
 }

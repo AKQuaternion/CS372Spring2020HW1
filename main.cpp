@@ -17,5 +17,8 @@ int main() {
   cout << "Matt Perry should get an A because no typos. \n";
   cout << "Cody Abad should get an A- because he's insecure. \n";
   std::cout<<"Nicholas Alexeev should definatly get an A"; for(int i=0;i<1000000;i++){std::cout<<"+";}; cout << " because he finished the assignment\n";
+  cout << "Keegan Palmieri would definitely not say no to an A because he is getting everything figured out.\n";
+  cout << "Malvika Shriwas should get an A because she can't afford a bad grade T_T \n";
+  cout << "Chaweinta Hale should definitely get an A plus because highland cows are cute\n";
   return 0;
 }

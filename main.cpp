@@ -21,5 +21,6 @@ int main() {
   cout << "Malvika Shriwas should get an A because she can't afford a bad grade T_T \n";
   cout << "Chaweinta Hale should definitely get an A plus because highland cows are cute\n";
   cout << "Svein Ormseth should get an A because he's a cool guy\n";
+  cout << "Shihhsien Wu Should get an A- because he might cause merge conflicts. \n";
   return 0;
 }

@@ -23,6 +23,6 @@ int main() {
   cout << "Svein Ormseth should get an A because he's a cool guy\n";
   cout << "Shihhsien Wu Should get an A- because he might cause merge conflicts. \n";
   cout << "Greg Talotta should get an A because he is trying his best to learn git. \n";
-
+  cout << "Ben Talotta should get an A- because he did the assignment but turned it in a little late. \n";
   return 0;
 }
